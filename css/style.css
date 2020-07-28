@@ -45,6 +45,9 @@ body {
   background-color: #E50A14 !important;
   border: none !important;
 }
+.btn-primary:focus{
+  box-shadow: none !important;
+}
 .navbar-dark {
   padding-top: 35px;
   padding-bottom: 35px;
